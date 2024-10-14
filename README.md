@@ -24,6 +24,8 @@ plt.bar(x, height)
 plt.title('Gráfico de Barras')
 plt.show()
 ~~~
+![AnyConv com__grafico-barras-apiladas-etiquetas-matplotlib](https://github.com/user-attachments/assets/156da924-53af-46ea-a64f-a5ba9aacc273)
+
 
 ## Gráficos de Dispersión (Scatter): 
 - ### Útiles para observar la relación entre dos variables.
@@ -32,6 +34,7 @@ plt.scatter(x, y)
 plt.title('Gráfico de Dispersión')
 plt.show()
 ~~~
+![AnyConv com__scatter-base](https://github.com/user-attachments/assets/f26dc1a0-289f-4503-9aa0-4fa6a3bd7e4d)
 
 ## Histogramas: 
 - ### Muestran la distribución de un conjunto de datos.
@@ -40,6 +43,7 @@ plt.hist(data, bins=10)
 plt.title('Histograma')
 plt.show()
 ~~~
+![AnyConv com__histograma](https://github.com/user-attachments/assets/7f3ba960-62d5-4aca-8f94-e661149a57a1)
 
 ## Gráficos de Pastel (Pie): 
 - ### Útiles para mostrar proporciones dentro de un todo.
@@ -48,6 +52,8 @@ plt.pie(sizes, labels=labels)
 plt.title('Gráfico de Pastel')
 plt.show()
 ~~~
+![AnyConv com__pie-chart-color-borde-matplotlib](https://github.com/user-attachments/assets/68cb6ed1-7402-41d8-8247-adbf77c286ae)
+
 # 2. Estilos para una Presentación Más Profesional
 
 ### Para que tus gráficos se vean más profesionales, puedes aplicar diferentes estilos y configuraciones:
